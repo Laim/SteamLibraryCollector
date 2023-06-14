@@ -1,6 +1,3 @@
-# Deprecated
-This no longer works due to Steam deprecating the xml API and I have no time to migrate it to the Web API.
-
 # GameTrakr - Steam Library Collector
  Steam Library Collector for GameTrakr
 
